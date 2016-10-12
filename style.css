@@ -9,14 +9,10 @@ h1 {
 }
 
 p {
-    font-family: helvetica, sans-serif;;
+    font-family: helvetica, sans-serif;
     font-size: 16px;
     text-align: center;
     word-wrap: normal;
-    border-top-color: transparent;
-    border-left-color: transparent;
-    border-right-color: transparent;
-    border-bottom-color: transparent;
 
 }
 </style>
