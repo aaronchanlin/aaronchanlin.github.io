@@ -1,0 +1,22 @@
+<style>
+body {
+    background-color: grey;
+}
+
+h1 {
+    color: lightgrey;
+    text-align: center;
+}
+
+p {
+    font-family: helvetica;
+    font-size: 20px;
+    text-align: center;
+    word-wrap: normal;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+
+}
+</style>
