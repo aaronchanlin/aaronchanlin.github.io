@@ -61,6 +61,9 @@ p {
 .social-media-icons a:hover .fa-github, .social-media-icons a:active .fa-github {
 	color: #6cc644;
 }
+.social-media-icons a:hover .fa-youtube, .social-media-icons a:active .fa-youtube {
+	color: #ff0000;
+}
 .hvr-bounce-to-top:before {
 	background: black;
 }
